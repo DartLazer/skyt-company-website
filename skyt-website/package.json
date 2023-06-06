@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt generate",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "start": "nuxt start"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "nuxt": "^3.2.3",
+    "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "tailwindcss-animation-delay": "^1.0.7",
+    "sass": "^1.58.3"
+  }
+}
